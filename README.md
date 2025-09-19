@@ -1,6 +1,6 @@
 # Data Science Course
 
-Additional material for the Data Science course.
+Resources for the practical sessions of the data science course at Sorbonne University.
 
 ## `colab` setup
 
