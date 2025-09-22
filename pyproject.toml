@@ -6,6 +6,8 @@ readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     "bs4>=0.0.2",
+    "folium>=0.20.0",
+    "geopandas>=1.1.1",
     "jupyter>=1.1.1",
     "lxml>=6.0.1",
     "pandas>=2.3.2",
