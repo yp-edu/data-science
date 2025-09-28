@@ -7,7 +7,7 @@ Resources for the practical sessions of the data science course at Sorbonne Univ
 You can open the notebooks directly in `colab` by clicking on the badges below. You'll need to uncoment the installation prompts `!pip install ...`, as they were removed for local runtimes.
 
 - [TME1](./notebooks/TME1.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yp-edu/data-science/blob/main/notebooks/TME1.ipynb)
-
+- [TME2](./notebooks/TME2.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yp-edu/data-science/blob/main/notebooks/TME2.ipynb)
 
 ## `uv` setup
 
