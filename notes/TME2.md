@@ -1,4 +1,4 @@
-# TME1 Notes
+# TME2 Notes
 
 ## EDA 101
 
