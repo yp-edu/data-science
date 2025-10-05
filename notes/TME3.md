@@ -15,3 +15,8 @@ Very important to visualize high-dimensional data, but also to process the date 
     - Selection is better for interpretable models
 - PCA: can be used for visualization or preprocessing
 - t-SNE: only for visualization
+
+
+## PCA
+
+Understanding the [PCA](https://medium.com/intuition/mathematical-understanding-of-principal-component-analysis-6c761004c2f8).
