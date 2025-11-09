@@ -11,6 +11,8 @@ You can open the notebooks directly in `colab` by clicking on the badges below. 
 - [TME3](./notebooks/TME3/TME3.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yp-edu/data-science/blob/main/notebooks/TME3/TME3.ipynb)
 - [TME4](./notebooks/TME4/TME4.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yp-edu/data-science/blob/main/notebooks/TME4/TME4.ipynb)
 - [TME5](./notebooks/TME5.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yp-edu/data-science/blob/main/notebooks/TME5.ipynb)
+- [TME6-ANOVA](./notebooks/TME6/TME6-ANOVA.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yp-edu/data-science/blob/main/notebooks/TME6/TME6-ANOVA.ipynb)
+- [TME6-Bias](./notebooks/TME6/TME6-Bias.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yp-edu/data-science/blob/main/notebooks/TME6/TME6-Bias.ipynb)
 
 ## `uv` setup
 
